@@ -1,0 +1,16 @@
+{
+    "seeds": [
+        {
+            "username": "EMAIL_ADDRESS",
+            "password": "PASSWORD"
+        },
+        {
+            "username": "EMAIL_ADDRESS",
+            "password": "PASSWORD"
+        },
+        {
+            "username": "EMAIL_ADDRESS",
+            "password": "PASSWORD"
+        }
+    ]
+}
